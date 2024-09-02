@@ -1,100 +1,48 @@
 ---
 layout: default
+title: Home
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Welcome to TheBitGuardian
 
-[Link to another page](./another-page.html).
+## Exploring the Realms of Network Administration and Cybersecurity
 
-There should be whitespace between paragraphs.
+Welcome to my GitHub Pages site! I am an aspiring network administrator and cybersecurity professional, and this site serves as a hub for my current projects, learning experiences, and technical insights. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## Current Projects
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### **Network Monitoring Tool**
+A script designed to monitor network traffic and detect anomalies in real-time. This project involves creating a dashboard that provides a visual overview of network activity and potential threats.
 
-#### Header 4
+### **Web Security Scanner**
+A tool to scan websites for security vulnerabilities, including SQL injection, cross-site scripting (XSS), and other common web application threats. This scanner helps identify and mitigate risks before they can be exploited.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+## Learning Journal
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+As I progress on my journey to becoming a network administrator and cybersecurity expert, I’m documenting my learning experiences. Here’s a glimpse into what I’ve been up to:
 
-###### Header 6
+- **Firewall Configurations**: Understanding the setup and management of firewalls to protect network infrastructure.
+- **Intrusion Detection Systems (IDS)**: Exploring the implementation and use of IDS to monitor network traffic for suspicious activities.
+- **Penetration Testing**: Learning the techniques to test network and web applications for vulnerabilities.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
+## Connect with Me
 
-* * *
+I'm always open to connecting with others in the tech community. Feel free to check out my work on [GitHub](https://github.com/TheBitGuardian), follow me on [Twitter](https://twitter.com/TheBitGuardian), or reach out via [email](mailto:your-email@example.com).
 
-### Here is an unordered list:
+---
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### Latest Blog Posts
 
-### And an ordered list:
+{% for post in site.posts limit:5 %}
+- [{{ post.title }}]({{ post.url }}) - *{{ post.date | date: "%B %d, %Y" }}*
+{% endfor %}
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+---
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Thank you for visiting my site! Stay tuned for more updates as I continue to learn and grow in the field of network administration and cybersecurity.
