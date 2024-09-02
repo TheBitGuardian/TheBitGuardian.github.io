@@ -25,7 +25,6 @@ As I progress on my journey to becoming a network administrator and cybersecurit
 - **Firewall Configurations**: Understanding the setup and management of firewalls to protect network infrastructure.
 - **Intrusion Detection Systems (IDS)**: Exploring the implementation and use of IDS to monitor network traffic for suspicious activities. I currently work with DarkTrace. 
 - **Penetration Testing**: Learning the techniques to test network and web applications for vulnerabilities.
-- **CCNA**: I am currently working toward obtaining my CCNA certification. 
 ---
 
 ## Connect with Me
