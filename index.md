@@ -7,17 +7,14 @@ title: Home
 
 ## Exploring the Realms of Network Administration and Cybersecurity
 
-Welcome to my GitHub Pages site! I am an aspiring network administrator and cybersecurity professional, and this site serves as a hub for my current projects, learning experiences, and technical insights. 
+Welcome to my GitHub Pages site! I am an aspiring network administrator and cybersecurity professional, and this site serves as a hub for my current projects, learning experiences, and technical insights. My current role is titled "Support Specialist II" however my duties resemble that of a jr network/system admin.
 
 ---
 
 ## Current Projects
 
-### **Network Monitoring Tool**
-A script designed to monitor network traffic and detect anomalies in real-time. This project involves creating a dashboard that provides a visual overview of network activity and potential threats.
-
-### **Web Security Scanner**
-A tool to scan websites for security vulnerabilities, including SQL injection, cross-site scripting (XSS), and other common web application threats. This scanner helps identify and mitigate risks before they can be exploited.
+### **Test Lab**
+I am currently working on developing a home lab. This lab will be used to better hone my understanding of network infrastructure. I'm also using tools like packet tracer to further identify how data transverses a network. 
 
 ---
 
@@ -26,15 +23,14 @@ A tool to scan websites for security vulnerabilities, including SQL injection, c
 As I progress on my journey to becoming a network administrator and cybersecurity expert, I’m documenting my learning experiences. Here’s a glimpse into what I’ve been up to:
 
 - **Firewall Configurations**: Understanding the setup and management of firewalls to protect network infrastructure.
-- **Intrusion Detection Systems (IDS)**: Exploring the implementation and use of IDS to monitor network traffic for suspicious activities.
+- **Intrusion Detection Systems (IDS)**: Exploring the implementation and use of IDS to monitor network traffic for suspicious activities. I currently work with DarkTrace. 
 - **Penetration Testing**: Learning the techniques to test network and web applications for vulnerabilities.
-
+- **CCNA**: I am currently working toward obtaining my CCNA certification. 
 ---
 
 ## Connect with Me
 
-I'm always open to connecting with others in the tech community. Feel free to check out my work on [GitHub](https://github.com/TheBitGuardian), follow me on [Twitter](https://twitter.com/TheBitGuardian), or reach out via [email](mailto:your-email@example.com).
-
+I'm always open to connecting with others in the tech community. Feel free to check out my work on [GitHub](https://github.com/TheBitGuardian)
 ---
 
 ### Latest Blog Posts
