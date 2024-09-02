@@ -1,5 +1,31 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+# Site settings
+title: TheBitGuardian
+description: A journey through network administration and cybersecurity.
+url: "https://TheBitGuardian.github.io"
+baseurl: "" # leave empty for GitHub Pages
+twitter_username: TheBitGuardian
+github_username: TheBitGuardian
+email: your-email@example.com
+
+# Build settings
 theme: jekyll-theme-hacker
+
+# Markdown processing
+markdown: kramdown
+highlighter: rouge
+
+# Site navigation
+paginate: 5
+paginate_path: "/page:num/"
+
+# Plugins (optional)
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
